@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kuldeep Singh Gill Academic Website"
+title                    : "Academic Website"
 title_separator          : "-"
 name                     : &name "Kuldeep Singh Gill"
 description              : &description "I am currently pursuing my PhD at Worcester Polytechnic Institute (WPI) where I am a Research Assistant at Wireless Innovation Laboratory under Dr. Alexander Wyglinski. My research interests include Cognitive Radios, Dynamic Spectrum Access, Bio-inspired Spectrum Access Techniques, Vehicular Communication. In past I have worked as an Automotive Engineer at Robert Bosch designing where my main responsibilities included designing .hex codes for North American OEM. I was also a Teaching Assistant at WPI for ECE introduction course and my responsibilities include assisting students in their projects and helping them in Lab."
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kuldeep Gill"
   avatar           : "kuldeep.jpeg"
-  bio              : "PhD Candidate at Worcester Polytechnic Institute"
-  location         : "Worcester, MA, USA"
+  bio              : "PhD Candidate"
+  location         : "WPI,MA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=I0SXPVAAAAAJ&hl=en"
   email            : "ksgill@wpi.edu"
@@ -101,8 +101,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kuldeep-s-gill-78781a111/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "kuldeep-s-gill-78781a111/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

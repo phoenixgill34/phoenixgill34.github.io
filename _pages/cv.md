@@ -11,30 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics and Telecommunication, Nagpur University, 2014
+* M.S. in Electrical and Computer Engineering, Worcester Polytechnic Institute, 2017
+* Ph.D in Electrical and Computer Engineering, Worcester Polytechnic Institute, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 - Aug 2019: Wireless Research Intern
+  * Samsung Research America
+  * Duties included: Worked on Openairinterface-5G, Terahertz Communication, 60 GHz UWB Radar
+  * Supervisor: Dr. Joonyoung Cho
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* July 2017 - Present: Research Assistant
+  * Worcester Polytechnic Institute
+  * Duties included: Worked on Bumblebee-based DSA, Spectrum Monitoring for IoT/5G.
+  * Supervisor: Dr. Alexander Wyglinski
+
+* Oct 2014 - March 2015: Automotive Engineer
+  * Bosch
+  * Duties included: Designing .Hex code for ECU
+
+* August 2016 - May 2017: Teaching Assistant
+  * Worcester Polytechnic Institute
+  * Duties included: Taking care of Labs and asisting students in projects
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Tools and Technologies
+  * C
+  * C++
+  * Python
+  * MATLAB
+  * Shell Scripting
+
+* Industry Knowledge
+  * Software-defined Radios
+  * GNU Radio
+  * Simulink
+  * 5G-NR, 4G/LTE, LTE-R
+  * Openairinterface-5G 
+
+* Network Protocols
+  * TCP/IP
+  * HTTP
+  * OSPF
+  * BGP
+  * EDCA
+  * DSRC/WAVE 
 
 Publications
 ======
@@ -54,6 +78,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

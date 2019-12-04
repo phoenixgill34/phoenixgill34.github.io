@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'In this paper we implement a cooperative spectrum sensing test-bed using software-defined radios with different sensing capabilities, e.g., sampling rates, RF characteristics, etc.'
 date: 2017-09-24
 venue: '2017 IEEE VTC-Fall'
-paperurl: 'http://phoenixgill34.github.io/files/paper3.pdf'
+paperurl: 'VTC-Fall-2017'
 citation: 'K. S. Gill and A. M. Wyglinski, "Heterogeneous Cooperative Spectrum Sensing Test-Bed Using Software-Defined Radios," 2017 IEEE 86th Vehicular Technology Conference (VTC-Fall), Toronto, ON, 2017, pp. 1-5.'
 ---
 
